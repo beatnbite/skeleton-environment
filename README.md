@@ -1,2 +1,2 @@
 # skeleton-vagrant
-Sample vagrant configuration for setting up a Linux virtual machine inside Windows
+Sample environment configuration for working on Linux projects inside Windows
